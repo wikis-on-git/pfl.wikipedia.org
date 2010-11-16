@@ -2,8 +2,8 @@
 
 {{Infobox Gemeinde in Deutschland
 |Wappen            = Wappen lambsheim.jpg 
-|Breitengrad       = 49/30/48/N
-|Längengrad        = 8/17/15/E
+|lat_deg = 49 | lat_min = 30 | lat_sec = 48
+|lon_deg = 08 | lon_min = 17 | lon_sec = 15
 |Lageplan          = Karte Lambsheim.png
 |Bundesland        = Rheinland-Pfalz
 |Landkreis         = [[Rhein-Pfalz-Kreis]]

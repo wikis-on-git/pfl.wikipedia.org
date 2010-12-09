@@ -1,8 +1,10 @@
 {{Infobox Gemeinde in Deutschland
 |Name              = Derrebach
 |Wappen            = Wappen von Dörrenbach.png 
-|Breitengrad       = 49/5/27/N
-|Längengrad        = 7/57/38/E
+|lat_deg = 49 | lat_min = 05 | lat_sec = 27
+|lon_deg = 07 | lon_min = 57 | lon_sec = 38
+<!--|Breitengrad       = 49/05/27/N
+|Längengrad        = 07/57/38/E -->
 |Lageplan          = Dörrenbach in SÜW.svg
 |Bundesland        = Rhoilond-Palz
 |Landkreis         = Siedliche Woischdrooß

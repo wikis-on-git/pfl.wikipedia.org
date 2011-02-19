@@ -1,10 +1,12 @@
 {{Infobox Gemeinde in Deutschland
 |Art               = Stadt
 |Wappen            = Wappen Speyer.jpg
-|Breitengrad       = 49/19/10/N
-|Längengrad        = 8/25/52/E
+|lat_deg = 49 | lat_min = 19| lat_sec = 10
+|lon_deg = 08 | lon_min = 25| lon_sec = 52
+<!--|Breitengrad       = 49/19/10/N
+|Längengrad        = 8/25/52/E-->
 |Lageplan          = Rhineland-Palatinate SP.svg
-|Lageplanbeschreibung= Lage der Stadt Speyer in Rheinland-Pfalz
+|Lageplanbeschreibung= Laach vun de Schdadt Schbaya in Rhoilond-Palz
 |Bundesland        = Rhoilond-Palz
 |Landkreis         = [[Krääsfraii Schdadt]]
 |Höhe              = 92–113

@@ -1,11 +1,13 @@
 {{Infobox Gemeinde in Deutschland
 |Art               = Stadt
 |Wappen            = Wappen Pirmasens.svg
-|Breitengrad       = 49/11/50/N
-|Längengrad        = 07/36/29/E
+|lat_deg = 49 | lat_min = 11 | lat_sec = 50
+|lon_deg = 07 | lon_min = 36 | lon_sec = 29
+<!--|Breitengrad       = 49/11/50/N
+|Längengrad        = 07/36/29/E-->
 |Lageplan          = Rhineland-Palatinate PS (urban).svg
-|Lageplanbeschreibung = Laach vun Bärmesens in Rhoinland-Palz
-|Bundesland        = Rhoinland-Palz
+|Lageplanbeschreibung = Laach vun Bärmesens in Rhoiland-Palz
+|Bundesland        = Rhoiland-Palz
 |Landkreis         = Kraisfraii Schdad
 |Höhe              = 387
 |Fläche            = 61.37
@@ -234,7 +236,7 @@ Bärmesens is jo e Middelzentrum vum Londkräs. Es hat drai Gymnasie: Es Hugo-Ba
 Die Erwachsene kenne sich a bai de Volkshochschul waiterbilde.
 
 === Vereune ===
-[[Image:Feuerwache Pirmasens.jpg|thumb|200px|Faierwach vun de Faierwehr Bärmesens]]
+<!-- hots noch net [[Datei:Feuerwache Pirmasens.jpg|thumb|200px|Faierwach vun de Faierwehr Bärmesens]]-->
 * Aero-Club Bärmesens
 * 1. Carneval-Vereu Bärmesens, CVP
 * 1. Mountain-Bike-Club Bärmesens e.V.
@@ -331,12 +333,14 @@ Bärmesens is ...
 
 
 == Weblinks ==
+{{Commons|Pirmasens|Bärmesens}}
+{{Wikisource|Pirmasens|Bärmesens}}
+
 * [http://www.pirmasens.de Stadt Pirmasens]
 * [http://www.westwall-museum.de Westwall-Museum Gerstfeldhöhe]
 * [http://encyclopedia.jrank.org/PIG_POL/PIRMASENS.html Pirmasens in der Encyclopædia Britannica 1911]
 * [http://www.radio-pirmasens.de Radio Pirmasens 88.4]
 * [http://www.heimat-pfalz.de/index.php/rathaeuser-der-pfalz/827-rathaus-pirmasens.html Das Rathaus von Pirmasens]
-{{Commons|Pirmasens|Bärmesens}}
 
 <div id="Vorlage_BK" class="toccolours" style="clear: both; border-width: 2px 0 0 0; font-size: 90%; margin-top: 2.5em; text-align: center;">''Der Ardikel basiert uf are freie Iwwersedzung vum Ardikel „[[:de:Pirmasens|Pirmasens]]“ aus da [[:de:|Daitsche Wigipedia]].''<br />''E Lischt mit de dordische Audore finnsch [http://de.wikipedia.org/w/index.php?title=Pirmasens&action=history do] ''</div><noinclude>
 <!--[[Category:Iwwersedzungshieweis|PAGENAME]]-->

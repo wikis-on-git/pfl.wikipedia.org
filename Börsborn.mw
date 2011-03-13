@@ -1,25 +1,27 @@
 {{Infobox Gemeinde in Deutschland
-|Wappe             = Wappen_Boersborn.jpg
-|Brädegrad         = 49/26/29/N
-|Längegrad         = 7/23/59/E
+|Wappen            = Wappen_Boersborn.jpg
+|lat_deg = 49 | lat_min = 26 | lat_sec = 29
+|lon_deg = 07 | lon_min = 23 | lon_sec = 59
+<!--|Brädegrad         = 49/26/29/N
+|Längegrad         = 7/23/59/E-->
 |Lageplan          = Börsborn in KUS.svg
-|Bundesland        = Rheinland-Pfalz
+|Bundesland        = Rhoiland-Palz
 |Landkräs          = Kusel
 |Verbandsgemä      = Minschwiller 
 |Heh               = 302 
 |Fläsch            = 3.90
+|Einwohner         = 409
 |PLZ               = 66904
 |Vorwahl           = 06383 
 |Kfz               = KUS
-|Gemändeschlissel  = 07336008
-|Adresse-Veband    = Homburger Straße 3 <br />66907 Glan-Münchweiler
-|Webseid           = [http://www.boersborn-online.de/ www.boersborn-online.de]
-|Borjemäschder     = Franz Sommer
-|Titel vom Borjemäschder = Ortsbürgermeister 
-|Pardei            = Wählerver. Börsborn
+|Gemeindeschlüssel = 07336008
+|Adresse-Verband   = Homburger Straße 3 <br />66907 Glan-Münchweiler
+|Website           = [http://www.boersborn-online.de/ www.boersborn-online.de]
+|Bürgermeister     = Franz Sommer
+|Bürgermeistertitel= Borjemäschder 
+|Partei            = Wählerver. Börsborn
 }}
-
-'''Berschborre''' is ä [[Ortsgemä]] im [[Landkreis Kusel]] in [[Rheinland-Palz]] ([[Deitschland]]) mid 409 Inwohner. Sie geheert zu de [[Verbandsgemä Minschwiller]]. Die mä als 500 Johr ald ''Muhläsch'' unn de Gloggeturm in de Dorfmidde, wo uff Veranllossung von de Gräfin Marianne von de Leyen in de Johr 1788/89 gestift wor is, sinn die Wahrzeiche vom Ort.
+'''Berschborre''' is ä [[Ortsgemä]] im [[Landkreis Kusel]] in [[Rhoiland-Palz]] ([[Daitschland]]) mid 409 Inwohner. Sie geheert zu de [[Verbandsgemä Minschwiller]]. Die mä als 500 Johr ald ''Muhläsch'' unn de Gloggeturm in de Dorfmidde, wu uff Veranllossung von de Gräfin Marianne von de Leyen in de Johr 1788/89 gestift wor is, sinn die Wahrzeiche vom Ort.
 
 == Geographie ==
 Das 320 m hoch geläne Dorf Berschborre leid drei Kilomeder vom [[Ohmbachsee]] entfernt in de [[Weschdpalz]].
@@ -50,8 +52,9 @@ Im Nordoschde gebts die [[Bundesautobahn 62|A 62]], im Südosschde die [[Bundesa
 == Sehn und Dächter vun de Gemä ==
 *[[Ute-Christine Krupp]] (* 1962), Audorin
 
+<!--- hots noch net
 == guckemol do ==
-* [[Liste der Kulturdenkmäler in Börsborn]]
+* [[Liste der Kulturdenkmäler in Börsborn]]--->
 
 == Weblings ==
 * [http://www.boersborn-online.de Homepage vom Ord Berschborre]
@@ -61,7 +64,8 @@ Im Nordoschde gebts die [[Bundesautobahn 62|A 62]], im Südosschde die [[Bundesa
 == Änzelnoweise ==
 <references />
 
-{{Navigationsleiste Städte und Gemeinden im Landkreis Kusel}}
+<!---hots noch net
+{{Navigationsleiste Städte und Gemeinden im Landkreis Kusel}}--->
 
 {{SORTIERUNG:Borsborn}}
 [[Kategorie:Ort im Landkreis Kusel]]

@@ -1,8 +1,10 @@
 {{Infobox Gemeinde in Deutschland
 |Art               = Stadt
 |Wappen            = Coat of arms de-bw Karlsruhe.svg
-|Breitengrad       = 49.014
-|Längengrad        = 8.4043
+|lat_deg = 49 | lat_min = 01 | lat_sec = 14
+|lon_deg = 08 | lon_min = 40 | lon_sec = 43
+<!--|Breitengrad       = 49.014
+|Längengrad        = 8.4043--->
 |Lageplan          = Baden-Württemberg KA (town).svg
 |Lageplanbeschreibung = Lage der Stadt Karlsruhe<br />in Baden-Württemberg
 |Bundesland        = Baden-Württemberg
@@ -10,6 +12,7 @@
 |Landkreis         = Stadtkreis
 |Höhe              = 115
 |Fläche            = 173.46
+|Einwohner         = 291959
 |PLZ               = 76131–76229 <!-- keine Postfächer/Großempfänger -->
 |PLZ-alt           = 7500
 |Vorwahl           = 0721

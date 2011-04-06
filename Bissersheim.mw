@@ -1,11 +1,13 @@
 {{Infobox Gemeinde in Deutschland
 |Art               = Ortsgemeinde
 |Wappen            = Wappen von Bissersheim.png
-|Breitengrad       = 49/32/09/N
-|Längengrad        = 08/12/15/E
+|lat_deg = 49 | lat_min = 32| lat_sec = 09
+|lon_deg = 08 | lon_min = 12| lon_sec = 15
+<!--|Breitengrad       = 49/32/09/N
+|Längengrad        = 08/12/15/E-->
 |Lageplan          = Bissersheim in DÜW.svg
-|Bundesland        = Rhoinland-Palz
-|Landkreis         = Derkem
+|Bundesland        = Rhoilond-Palz
+|Landkreis         = [[Londkrääs Derkem|Derkem]]
 |Verbandsgemeinde  = Grünstadt-Land
 |Höhe              = 141
 |Fläche            = 2.57
@@ -16,8 +18,8 @@
 |Gemeindeschlüssel = 07332004
 |Adresse-Verband   = Induschdriestrooß 11<br />67269 Grünstadt
 |Website           = [http://www.gruenstadt-land.de/ www.gruenstadt-land.de]
-|Bürgermeister     = Christel Poll
-|Bürgermeistertitel= Ortsbürgermeisterin
+|Bürgermeister     = [[Christel Poll]]
+|Bürgermeistertitel= Ortsbürgermeister
 }}
 '''Bisserschm''' (a '''Brrrsm''' orra '''Brrschm''') (uff hochdaitsch ''Bissersheim'') isen Ort in de 1972 gebild Verbandsgemää Grinnschdadd-Land im [[Londkrääs Derkem]] in de [[Palz (Reg.Bez.)|Palz]]. Es hott 465 Oiwohner.
 

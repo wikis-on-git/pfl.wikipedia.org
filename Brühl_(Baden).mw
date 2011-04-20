@@ -1,12 +1,15 @@
 {{Infobox Gemeinde in Deutschland
 |Name              = Brihl
+|Name_amtlich      = 
 |Wappen            = Wappen Bruehl.png
-|Breitengrad       = 49/24/00/N
-|Längengrad        = 08/32/07/E
+|lat_deg = 49 | lat_min = 24| lat_sec = 00
+|lon_deg = 08 | lon_min = 32| lon_sec = 07
+<!--|Breitengrad       = 49/24/00/N
+|Längengrad        = 08/32/07/E-->
 |Lageplan          = Brühl in HD.svg
-|Bundesland        = Baade-Würddebärsch
-|Regierungsbezirk  = Karlsruh
-|Landkreis         = Rhai-Negga-Grais
+|Bundesland        = Bade-Wirddebärsch|Baade-Würddebärsch
+|Regierungsbezirk  = [[Karlsruh]]
+|Landkreis         = [[Rhoi-Neggar-Krääs|Rhai-Negga-Grais]]
 |Höhe              = 102
 |Fläche            = 10.19
 |Einwohner         = 14.213
@@ -16,11 +19,16 @@
 |Kfz               = HD
 |Gemeindeschlüssel = 08226009
 |LOCODE            = DE BRU
-|Gliederung        = 2 [[Ortsteil]]e
-|Adresse           = Haubdstrooß 1<br />68782 Brihl
+|Gliederung        = 2 [[Ordsdeel]]
+|Adresse           = Hauptstraße 1<br />68782 Brühl
 |Website           = [http://www.bruehl-baden.de/ www.bruehl-baden.de]
 |Bürgermeister     = Ralf Göck
 |Partei            = SPD
+|DIAFAM            = [[Rhoifrängisch]]
+|DIALECT           = [[Pälzisch]]
+|DIAREG            = [[Kurpälzisch]]
+|DIALOC            = 
+|DIAACT            = 
 }}
 '''Brihl''' is e Gemää mit vierzäh tausend Aiwohna im [[Rhoi-Negga-Grais|Rhai-Negga-Grais]] in [[Bade-Wirddebärsch|Baade-Würddebärsch]]. S is ä Teil vun dea Metropolregion Rhai-Negga.
 

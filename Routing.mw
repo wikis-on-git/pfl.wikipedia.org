@@ -1,0 +1,54 @@
+'''Routing''' iss es Verfahre, wie in nem Datenetzwerk (normal es Internet odder annere [[IP]]-basierte Netzwerke), die Data-Peggelscher durschgeschickt werre.
+
+== Routing im Internet ==
+
+Im [[Internet]] genn Date in [[IP]]-Datepakete uffgedeilt. Die genn dann einzeln unn independent vonnanner iwwerdraach ("geroutet"). Das nennt mer aach e "verbindungsloosi Vermittlung", weil sich es Netzwerk nit merke muss, welsches Peggelsche zu welscher Verbindung geheert. Jedes IP-Paket hat die IP-Adress vom Sender unn die vom Receiver, also genauso wie e Paket wo mit der Poscht verschickt gebbt. Sobald e Paket sei Ausgangs-Computer verloss hat, gebb's iwwa e chain von [[Router]] zum Receiver gelotst.
+
+Normalerweis passiert es Routing nur iwwer die Zieladress (''destination-based routing''). Typischerweise kennt weder de Sender, noch die Router uff em Weech de komplette Pfad vom Paket dursch es ganze Netzwerk. Das kann ma vergleische mit nem Brief von [[Pittsburgh]] noo [[Los Angeles]], wo jo aach weder de Absender noch die Clerks von der Poscht de ganz genaue Weech wisse.
+
+IP-Adresse werre noo ne hierarchische Schema vergebb. Desweche braucht e Router beim Weiterleite von ne Peggelsche nur e Teil von der IP-Adress vom Receiver (es sogenannte ''Prefix'') aanzugucke, um zu entscheide, an welscher von seine Nachbar-Router er es Paket weiterleide muss. Das kann man vergleische mit ne Poscht-Clerk in Pittsburgh, wo alle Briefe noo Kalifornie zum Flughafe schickt, ohne dass er jetzt genau guggt, in welschi kalifornischi Stadt odder in welschi Stroos der Brief genau muss. Die Information, dass alle Pakete mit Prefix&nbsp;''x'' an de Nachbar ''y'' weitergeleit werre solle, nennt ma ''die Route''.
+
+== Routingprotokolle ==
+
+Es wär aarisch miehseelisch unn fehleranfällisch, wann ma alle Route in nem Router manuell konfiguriere dääd. Um das ze automatisiere, genn ''Routingprotokolle'' verwendt. E Routingprotokoll is e Data-Protokoll, mit demm sisch die Router mitenanner underhalte, wie sich graad die Netzwerk[[topologie]] geännert hat, ob es neie Route gebbt, odder ob sisch bestehende Route verschlechtert hann odder ganz weggefall sinn. Sobald e Router so e Information von seim Nachbar kriecht, basst er (wann er muss) sei Lischt von Route, die sogenannte ''Routingtabelle'' (routing table), an, unn saacht seine Nachbarn entsprechend bescheid.
+
+Es gebbt aarisch vill verschiedene Routingprotokolle, wo man in verschiedenste Klasse innteile kann, vor allem in bezuch uff de Anwennungsbereich (scope). Uff ennem Router laafe desweche oft mehrere verschiedene Routingprotokolle gleichzeitich. Dann muss de Router die einzelne Protokolle priorisiere (das wird oft ''administrative distance'' genannt), um e scheen definiertes Verhalte se gewährleischte, wann sisch einzelne Protokolle enanner widerspreche.
+
+== Quelle unn Literatur ==
+* James F. Kurose, Keith W. Ross: Computer Networking—A top-down approach featuring the Internet, Pearson
+* Andrew S. Tanenbaum: Computer Networks, Prentice Hall
+
+[[Kategorie:Eppes Neies]]
+
+[[de:Routing]]
+[[en:Routing]]
+[[af:Roetering]]
+[[ar:التسيير (علم الشبكات)]]
+[[bg:Маршрутизация]]
+[[cs:Směrování]]
+[[el:Δρομολόγηση]]
+[[es:Encaminamiento]]
+[[eu:Bideratze-algoritmo]]
+[[fa:مسیریابی (شبکه)]]
+[[fi:Reititys]]
+[[fr:Routage]]
+[[ga:Ródú]]
+[[he:ניתוב]]
+[[hu:Útválasztás]]
+[[id:Routing]]
+[[it:Instradamento]]
+[[ja:ルーティング]]
+[[ko:라우팅]]
+[[mk:Насочување (информатика)]]
+[[ms:Penghalaan]]
+[[pl:Trasowanie (telekomunikacja)]]
+[[pt:Encaminhamento]]
+[[ro:Rutare]]
+[[ru:Маршрутизация]]
+[[sv:Dirigering (nätverk)]]
+[[ta:திசைவித்தல்]]
+[[tr:Routing]]
+[[uk:Маршрутизація]]
+[[vi:Định tuyến]]
+[[wuu:路由]]
+[[zh:路由]]

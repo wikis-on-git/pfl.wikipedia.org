@@ -1,46 +1,50 @@
 {{Infobox Gemeinde in Deutschland
 |Name              = Reemabärsch
-|Wappe             = Wappen Roemerberg.svg
-|Breidengrad       = 49/17/14/N
-|Längengrad        = 8/23/52/E
-|do lichts         = Karte Römerberg.png
-|Bundeslond        = Rhoinlond Palz
-|Landkräss         = Rhoi-Palz-Kräss
+|Wappen            = Wappen Roemerberg.svg
+|lat_deg                    = 49 | lat_min = 17 | lat_sec = 13
+|lon_deg                    = 08 | lon_min = 23 | lon_sec = 52
+|Lageplan         = Karte Römerberg.png
+|Lageplanbeschreibung       = Lag vun da Gemä Reemabärsch im Rhoi-Palz-Krääs
+|Bundesland        = Rhoinlond Palz
+|Landkreis         = [[Rhoi-Palz-Krääs]]
+|Regierungsbezirk  = [[Regierungsbezirk Speyer|Schbaya]]
 |Höhe              = 115
 |Fläche            = 27.86
 |PLZ               = 67354
 |PLZ-alt           = 6725
 |Vorwahl           = 06232
+|Einwohner         = 3223
+|Stand             = 31. Dez. 2010
 |Kfz               = RP <small>(bis 31. Aug. 2005: LU)</small>
-|Gemändeschlüssel  = 07338023
+|Gemeindeschlüssel  = 07338023
 |Gliederung        = 3 [[Ortsteil]]e
 |Adresse           = Am Rathaus 4<br />67354 Römerberg-Heiligenstein
-|Webseit           = [http://www.roemerberg.de/ www.roemerberg.de]
-|Borschemechder    = Manfred Scharfenberger
-|Pardei            = CDU
+|Website           = [http://www.roemerberg.de/ www.roemerberg.de]
+|Bürgermeister    = Manfred Scharfenberger
+|Partei            = CDU
 }}
-'''Reemabärsch''' is a einheits Gemä in Rhoi-paltz-krääs. Reemabärsch sin drei Ortzdele nämlich Berchhause, Medersche un Hälchestä.
+'''Reemabärsch''' is a Einheits-Gemä in Rhoi-Palz-Krääs. Reemabärsch sin drei Ortzdele nämlich Berchhause, Medersche un Hälchestä.
 
 == Geographe ==
 === Geographische Lache ===
-Reemabärsch lischd etwa zwee Kilomeder südlich von schbaya. 
+Reemabärsch lischd etwa zwee Kilomeder südlich von [[Schbaya]] in da Rhoiewene. 
 
-=== Gemeindegliederung ===
+=== Gemägliederung ===
 {| border="1" cellpadding="2" cellspacing="0" 
 |- bgcolor="#eeeeee"
 | &nbsp;   
-| Einwohner 
-| align="right" | Fläche
+| Oinwuhner 
+| align="right" | Fläch
 |-
-| Berghausen 
+| Berchhause 
 | align="right" | 3.463 
 | align="right" | 601 ha
 |-
-| Heiligenstein   
+| Hälchestä   
 | align="right" | 2.966 
 | align="right" | 631 ha 
 |-
-| Mechtersheim&nbsp;&nbsp;  
+| Medersche&nbsp;&nbsp;  
 | align="right" | 3.306 
 | align="right" | &nbsp;&nbsp;1.554&nbsp;ha
 |}
@@ -48,3 +52,7 @@ Reemabärsch lischd etwa zwee Kilomeder südlich von schbaya.
 <!-- === Geologie === -->
 <!-- === Nachbargemeinden === -->
 <!-- === Klima === -->
+
+[[Kategorie:Pälzer un Kurpälzer Orde]]
+
+[[de:Römerberg (Pfalz)]]
